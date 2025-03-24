@@ -3,6 +3,8 @@
 I'm a passionate developer always open to learning new things. Here, I share my web dev projects and random experiments. Feel free to come along.
 
 ```json
+// myself.json
+
 {
   "name": "Trevor",
   "age": 19,
