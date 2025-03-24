@@ -3,7 +3,7 @@
 I'm a passionate developer always open to learning new things. Here, I share my web dev projects and random experiments. Feel free to come along.
 
 ```json
-// myself.json
+// me.json
 
 {
   "name": "Trevor",
@@ -14,7 +14,12 @@ I'm a passionate developer always open to learning new things. Here, I share my 
     "mostUsed": "TypeScript"
   },
   "os": "Windows",
-  "currentlyLearning": "Node.js & testing"
+  "currentlyLearning": "Node.js & testing",
+  "hobbies": [
+    "hanging out with my friends",
+    "learn about web development",
+    "pet my cat"
+  ]
 }
 ```
 
