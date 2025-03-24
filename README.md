@@ -9,9 +9,10 @@ I'm a passionate developer always open to learning new things. Here, I share my 
   "location": "PER",
   "languages": {
     "fav": "TypeScript",
-    "MostUsed": "TypeScript"
+    "mostUsed": "TypeScript"
   },
-  "os": "Windows"
+  "os": "Windows",
+  "currentlyLearning": "Node.js & testing"
 }
 ```
 
