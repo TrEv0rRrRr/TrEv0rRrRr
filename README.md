@@ -1,5 +1,18 @@
 # Hi 👋 My name is Trevor
 
+```json
+{
+  "name": "Trevor",
+  "age": 19,
+  "location": "PER",
+  "languages": {
+    "fav": "TypeScript",
+    "MostUsed": "TypeScript"
+  },
+  "os": "Windows"
+}
+```
+
 - 🌍  I'm based in Lima, Perú
 
 ### Skills
