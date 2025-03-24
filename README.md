@@ -40,3 +40,5 @@ I'm a passionate developer always open to learning new things. Here, I share my 
 <a href="http://www.github.com/TrEv0rRrRr"><img src="https://github-readme-stats.vercel.app/api?username=TrEv0rRrRr&show_icons=true&hide=issues,&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="TrEv0rRrRr's GitHub stats" /></a>
 
 <a href="https://github.com/TrEv0rRrRr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrEv0rRrRr&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+If you read this, go pet your cat. 🐈‍⬛✨
