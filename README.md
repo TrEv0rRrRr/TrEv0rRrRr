@@ -1,5 +1,7 @@
 # Hi 👋 My name is Trevor
 
+I'm a passionate developer always open to learning new things. Here, I share my web dev projects and random experiments.
+
 ```json
 {
   "name": "Trevor",
@@ -12,8 +14,6 @@
   "os": "Windows"
 }
 ```
-
-- 🌍  I'm based in Lima, Perú
 
 ### Skills
 
