@@ -7,7 +7,7 @@ I'm a passionate developer always open to learning new things. Here, I share my 
 
 {
   "name": "Trevor",
-  "age": 20,
+  "age": 21,
   "location": "PER",
   "languages": {
     "fav": "TypeScript",
